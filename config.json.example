@@ -1,0 +1,7 @@
+{
+    "endpoint": "https://app.corellium.com",
+    "username": "user@example.com",
+    "password": "hunter2",
+    "project": "Default Project",
+    "instance": "<Device UUID>"
+}
