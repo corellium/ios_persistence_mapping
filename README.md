@@ -1,6 +1,6 @@
 # Mapping iOS Persistence Attack Surface using Corellium
 
-Accompanying code for a blog post (**TODO: Link to the post**).
+Accompanying code for a [blog post](https://www.corellium.com/blog/mapping-ios-persistence).
 
 This repository contains a `uniq_opens.txt` file as generated in the blog post. Replace this file if new data is generated.
 
