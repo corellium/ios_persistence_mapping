@@ -5,7 +5,7 @@ cryptography==3.4.7
 delegator.py==0.1.1
 docker==5.0.0
 english==2020.7.0
-idna==2.10
+idna==3.7
 monotonic==1.6
 neotime==1.7.4
 packaging==20.9
