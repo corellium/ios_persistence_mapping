@@ -19,7 +19,7 @@ Pygments==2.9.0
 pyparsing==2.4.7
 python-magic==0.4.23
 pytz==2021.1
-requests==2.25.1
+requests==2.32.2
 six==1.16.0
 urllib3==1.26.5
 wcwidth==0.2.5
